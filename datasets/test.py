@@ -1,10 +1,8 @@
 import pandas as pd
 
-# Specify the file path
-file_path = "/workspaces/zillow-rent-vs-buy/datasets/orlando2_fl_data.csv"
+# Load the data
+data = pd.read_csv('/workspaces/zillow-rent-vs-buy/datasets/orlando_3_fl_data.csv')
 
-# Read the CSV file into a DataFrame
-df = pd.read_csv(file_path)
+# Display the data
+print(data)
 
-# Display the DataFrame
-print(df)
