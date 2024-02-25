@@ -37,8 +37,8 @@ The project is organized into the following main sections:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/donlopez/zillow-rent-vs-buy.git
-   cd zillow-rent-vs-buy
+   git clone https://github.com/donlopez/homes-rent-vs-buy.git
+   cd homes-rent-vs-buy
    ```
 
 2. Open the Jupyter Notebook files in the `notebooks` directory to explore the dataset and analyze the data.
