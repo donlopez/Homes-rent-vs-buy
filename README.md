@@ -6,7 +6,7 @@ This project aims to analyze Zillow housing data to provide insights into whethe
 
 ## Dataset
 
-The dataset used in this project is sourced from Zillow and includes relevant information about housing prices, rental rates, and other key factors. The dataset is available in the `data` directory.
+The dataset used in this project is sourced from Zillow and includes relevant information about housing prices, rental rates, and other key factors. The dataset is available in the `datasets` directory.
 
 ## Project Structure
 
@@ -22,6 +22,7 @@ The project is organized into the following main sections:
      - What are the current trends in housing prices and rental rates?
      - How do these trends vary across different regions?
      - Is it financially more beneficial to buy or rent in 2024?
+     - What are the projected trends for the next five years?
 
 3. **Visualizations:**
    - The `visualizations` directory contains graphs and charts generated during the analysis. These visualizations help communicate key findings.
@@ -42,3 +43,12 @@ The project is organized into the following main sections:
    ```bash
    git clone https://github.com/donlopez/zillow-rent-vs-buy.git
    cd zillow-rent-vs-buy
+   ```
+
+2. Open the Jupyter Notebook files in the `notebooks` directory to explore the dataset and analyze the data.
+
+3. Run the code cells in the notebooks to generate visualizations and obtain insights.
+
+4. Review the visualizations in the `visualizations` directory to gain a better understanding of the analysis results.
+
+5. Use the findings from the analysis to make informed decisions about whether to buy or rent a property in 2024.
