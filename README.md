@@ -13,11 +13,11 @@ The dataset used in this project is sourced from Zillow and includes relevant in
 The project is organized into the following main sections:
 
 1. **Data Exploration:**
-   - Jupyter Notebook: [data_exploration.ipynb](/notebooks/data_exploration.ipynb)
+   - Jupyter Notebook: [JupiterFile1](notebooks/JupiterFile1.ipynb)
    - This notebook explores the dataset, examining features such as property prices, rental rates, and market trends.
 
 2. **Analysis:**
-   - Jupyter Notebook: [analysis.ipynb](/notebooks/analysis.ipynb)
+   - Jupyter Notebook: [JupiterFile1](notebooks/JupiterFile1.ipynb)
    - The analysis notebook delves into specific questions, such as:
      - What are the current trends in housing prices and rental rates?
      - How do these trends vary across different regions?
